@@ -2,6 +2,7 @@
 
 O Desafio dos 1 Bilhão de Linhas (1BRC) está disponível em: https://github.com/gunnarmorling/1brc/.
 
+> [!NOTE]
 > O Desafio dos 1 Bilhão de Linhas (1BRC) é uma exploração divertida de até onde o Java moderno pode ser levado para agregar um bilhão de linhas de um arquivo de texto. Reúna todos os seus (virtuais) threads, explore o SIMD, otimize seu GC ou use qualquer outro truque e crie a implementação mais rápida para resolver essa tarefa!
 
 ## Como Executar
