@@ -17,7 +17,7 @@ O Desafio dos 1 Bilhão de Linhas (1BRC) está disponível em: https://github.co
 
 ## Resultados de Desempenho
 
-Acer Nitro AN515-44, AMD® Ryzen 7 4800h with radeon graphics × 16 , NVIDIA Corporation TU117M / NVIDIA GeForce GTX 1650/PCIe/SSE2 (PopOS): **11.98 segundos**
+Acer Nitro AN515-44, AMD® Ryzen 7 4800h with radeon graphics × 16 , NVIDIA Corporation TU117M / NVIDIA GeForce GTX 1650/PCIe/SSE2 (PopOS): **1.71 seconds**
 ```
-37.90s user 4.74s system 355% cpu 11.983 total
+49.60s user 1.71s system 1244% cpu 4.124 total
 ```
